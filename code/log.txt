@@ -1,0 +1,20 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2021 The MathWorks, Inc.
+                  R2021a (9.10.0.1602886) 64-bit (glnxa64)
+                             February 17, 2021
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> alpha: 0.2500  beta: 0.2500 ，current acc: 0.2240，the best acc: 0.2240 
+alpha: 0.2500  beta: 1.0000 ，current acc: 0.2293，the best acc: 0.2293 
+alpha: 0.2500  beta: 4.0000 ，current acc: 0.2320，the best acc: 0.2320 
+alpha: 1.0000  beta: 0.2500 ，current acc: 0.2160，the best acc: 0.2320 
+alpha: 1.0000  beta: 1.0000 ，current acc: 0.2240，the best acc: 0.2320 
+alpha: 1.0000  beta: 4.0000 ，current acc: 0.2293，the best acc: 0.2320 
+alpha: 4.0000  beta: 0.2500 ，current acc: 0.2133，the best acc: 0.2320 
+alpha: 4.0000  beta: 1.0000 ，current acc: 0.2187，the best acc: 0.2320 
+alpha: 4.0000  beta: 4.0000 ，current acc: 0.2160，the best acc: 0.2320 
+>> >> >> >> >> >> 
