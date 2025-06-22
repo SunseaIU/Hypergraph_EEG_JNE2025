@@ -1,0 +1,66 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2021 The MathWorks, Inc.
+                  R2021a (9.10.0.1602886) 64-bit (glnxa64)
+                             February 17, 2021
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> alpha: 0.0625  beta: 0.0625 ，current acc: 0.2493，the best acc: 0.2493 
+alpha: 0.0625  beta: 0.1250 ，current acc: 0.2493，the best acc: 0.2493 
+alpha: 0.0625  beta: 0.2500 ，current acc: 0.2493，the best acc: 0.2493 
+alpha: 0.0625  beta: 0.5000 ，current acc: 0.2604，the best acc: 0.2604 
+alpha: 0.0625  beta: 1.0000 ，current acc: 0.2493，the best acc: 0.2604 
+alpha: 0.0625  beta: 2.0000 ，current acc: 0.2547，the best acc: 0.2604 
+alpha: 0.0625  beta: 4.0000 ，current acc: 0.2640，the best acc: 0.2640 
+alpha: 0.0625  beta: 8.0000 ，current acc: 0.2587，the best acc: 0.2640 
+alpha: 0.0625  beta: 16.0000 ，current acc: 0.2533，the best acc: 0.2640 
+alpha: 0.0625  beta: 32.0000 ，current acc: 0.2516，the best acc: 0.2640 
+alpha: 0.0625  beta: 64.0000 ，current acc: 0.2689，the best acc: 0.2689 
+alpha: 0.0625  beta: 128.0000 ，current acc: 0.2573，the best acc: 0.2689 
+alpha: 0.0625  beta: 256.0000 ，current acc: 0.2604，the best acc: 0.2689 
+alpha: 0.1250  beta: 0.0625 ，current acc: 0.2969，the best acc: 0.2969 
+alpha: 0.1250  beta: 0.1250 ，current acc: 0.2969，the best acc: 0.2969 
+alpha: 0.1250  beta: 0.2500 ，current acc: 0.2969，the best acc: 0.2969 
+alpha: 0.1250  beta: 0.5000 ，current acc: 0.2649，the best acc: 0.2969 
+alpha: 0.1250  beta: 1.0000 ，current acc: 0.2569，the best acc: 0.2969 
+alpha: 0.1250  beta: 2.0000 ，current acc: 0.2902，the best acc: 0.2969 
+alpha: 0.1250  beta: 4.0000 ，current acc: 0.2569，the best acc: 0.2969 
+alpha: 0.1250  beta: 8.0000 ，current acc: 0.2827，the best acc: 0.2969 
+alpha: 0.1250  beta: 16.0000 ，current acc: 0.2582，the best acc: 0.2969 
+alpha: 0.1250  beta: 32.0000 ，current acc: 0.2604，the best acc: 0.2969 
+alpha: 0.1250  beta: 64.0000 ，current acc: 0.2627，the best acc: 0.2969 
+alpha: 0.1250  beta: 128.0000 ，current acc: 0.2662，the best acc: 0.2969 
+alpha: 0.1250  beta: 256.0000 ，current acc: 0.2796，the best acc: 0.2969 
+alpha: 0.2500  beta: 0.0625 ，current acc: 0.2493，the best acc: 0.2969 
+alpha: 0.2500  beta: 0.1250 ，current acc: 0.2493，the best acc: 0.2969 
+alpha: 0.2500  beta: 0.2500 ，current acc: 0.2493，the best acc: 0.2969 
+alpha: 0.2500  beta: 0.5000 ，current acc: 0.2582，the best acc: 0.2969 
+alpha: 0.2500  beta: 1.0000 ，current acc: 0.2547，the best acc: 0.2969 
+alpha: 0.2500  beta: 2.0000 ，current acc: 0.2582，the best acc: 0.2969 
+alpha: 0.2500  beta: 4.0000 ，current acc: 0.2547，the best acc: 0.2969 
+alpha: 0.2500  beta: 8.0000 ，current acc: 0.2716，the best acc: 0.2969 
+alpha: 0.2500  beta: 16.0000 ，current acc: 0.2596，the best acc: 0.2969 
+alpha: 0.2500  beta: 32.0000 ，current acc: 0.2467，the best acc: 0.2969 
+alpha: 0.2500  beta: 64.0000 ，current acc: 0.2702，the best acc: 0.2969 
+alpha: 0.2500  beta: 128.0000 ，current acc: 0.2724，the best acc: 0.2969 
+alpha: 0.2500  beta: 256.0000 ，current acc: 0.2880，the best acc: 0.2969 
+alpha: 0.5000  beta: 0.0625 ，current acc: 0.2969，the best acc: 0.2969 
+alpha: 0.5000  beta: 0.1250 ，current acc: 0.2969，the best acc: 0.2969 
+alpha: 0.5000  beta: 0.2500 ，current acc: 0.2969，the best acc: 0.2969 
+alpha: 0.5000  beta: 0.5000 ，current acc: 0.2969，the best acc: 0.2969 
+alpha: 0.5000  beta: 1.0000 ，current acc: 0.2836，the best acc: 0.2969 
+alpha: 0.5000  beta: 2.0000 ，current acc: 0.2836，the best acc: 0.2969 
+alpha: 0.5000  beta: 4.0000 ，current acc: 0.2511，the best acc: 0.2969 
+alpha: 0.5000  beta: 8.0000 ，current acc: 0.2760，the best acc: 0.2969 
+alpha: 0.5000  beta: 16.0000 ，current acc: 0.2778，the best acc: 0.2969 
+alpha: 0.5000  beta: 32.0000 ，current acc: 0.2920，the best acc: 0.2969 
+alpha: 0.5000  beta: 64.0000 ，current acc: 0.2680，the best acc: 0.2969 
+alpha: 0.5000  beta: 128.0000 ，current acc: 0.2653，the best acc: 0.2969 
+alpha: 0.5000  beta: 256.0000 ，current acc: 0.2693，the best acc: 0.2969 
+alpha: 1.0000  beta: 0.0625 ，current acc: 0.2591，the best acc: 0.2969 
+alpha: 1.0000  beta: 0.1250 ，current acc: 0.2591，the best acc: 0.2969 
+alpha: 1.0000  beta: 0.2500 ，current acc: 0.2591，the best acc: 0.2969 
+alpha: 1.0000  beta: 0.5000 ，current acc: 0.2640，the best acc: 0.2969 
